@@ -6,7 +6,7 @@ cd ~/SOC-Design-Lab-D/testbench/counter_la_mm
 source run_sim
 ```
 
-Validate the `Call function adder() in User Project BRAM (mprjram, 0x38000000) return value passed, 0x2233` is printed
+Validate the `Call function matmul() in User Project BRAM (mprjram, 0x38000000) return value passed, 0x003e` is printed
 ```
 Reading counter_la_mm.hex
 counter_la_mm.hex loaded into memory
